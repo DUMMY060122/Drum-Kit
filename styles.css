@@ -85,3 +85,7 @@ footer {
 
   color: white;
 }
+
+a:visited {
+  color: transparent;
+}

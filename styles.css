@@ -87,6 +87,6 @@ footer {
 }
 
 a:visited { 
-  text-decoration: none; 
+  /* text-decoration: none;  */
   color: white; 
  }

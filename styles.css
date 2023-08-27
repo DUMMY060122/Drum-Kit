@@ -86,6 +86,7 @@ footer {
   color: white;
 }
 
-a:visited {
-  color: transparent;
-}
+a:visited { 
+  text-decoration: none; 
+  color: white; 
+ }
